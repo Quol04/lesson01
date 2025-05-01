@@ -11,3 +11,12 @@ Prefer functional components and hooks (if using React)
 Write responsive, accessible UI
 
 Separate concerns: logic in hooks/services, UI in components
+
+
+
+
+## Testing
+
+Unit tests: [Jest / Vitest]
+
+Component tests: [React Testing Library / Cypress]
