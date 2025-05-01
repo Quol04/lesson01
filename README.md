@@ -1,7 +1,7 @@
-## New Repository
-This is for testing code
-## Will also be used for teaching
+## Will be used for teaching and Testing
+
 ## Development Guidelines
+
 Use consistent naming conventions (camelCase for JS, kebab-case for CSS)
 
 Maintain modular and reusable components
@@ -13,6 +13,7 @@ Write responsive, accessible UI
 Separate concerns: logic in hooks/services, UI in components
 
 ## Technologies Used
+
 |Technology|	Purpose|
 |-------|-------|
 |HTML5 / CSS3	|Markup and styling|
