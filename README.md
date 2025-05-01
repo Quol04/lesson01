@@ -1,3 +1,13 @@
 ## New Repository
 This is for testing code
 ## Will also be used for teaching
+## Development Guidelines
+Use consistent naming conventions (camelCase for JS, kebab-case for CSS)
+
+Maintain modular and reusable components
+
+Prefer functional components and hooks (if using React)
+
+Write responsive, accessible UI
+
+Separate concerns: logic in hooks/services, UI in components
