@@ -12,9 +12,10 @@ Write responsive, accessible UI
 
 Separate concerns: logic in hooks/services, UI in components
 
-Technologies Used
-Technology	Purpose
-HTML5 / CSS3	Markup and styling
+## Technologies Used
+|Technology|	Purpose|
+|-------|-------|
+|HTML5 / CSS3	|Markup and styling|
 JavaScript / TypeScript	Programming language
 React / Vue / Svelte	Frontend framework
 Vite / Webpack	Module bundling and tooling
