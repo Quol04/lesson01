@@ -16,12 +16,12 @@ Separate concerns: logic in hooks/services, UI in components
 |Technology|	Purpose|
 |-------|-------|
 |HTML5 / CSS3	|Markup and styling|
-|JavaScript / TypeScript	Programming language
-|React / Vue / Svelte	Frontend framework
-|Vite / Webpack	Module bundling and tooling
-|Axios / Fetch	API communication
-|SCSS / TailwindCSS	Styling frameworks
-|ESLint / Prettier	Code linting and formatting
+|JavaScript / TypeScript|	Programming language|
+|React / Vue / Svelte|	Frontend framework|
+|Vite / Webpack|	Module bundling and tooling|
+|Axios / Fetch	|API communication|
+|SCSS / TailwindCSS|	Styling frameworks|
+|ESLint / Prettier	|Code linting and formatting|
 
 ---
 ## Testing
