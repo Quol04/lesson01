@@ -2,6 +2,8 @@
 
 ## Development Guidelines
 
+### This is being used for teaching and Testing
+
 Use consistent naming conventions (camelCase for JS, kebab-case for CSS)
 
 Maintain modular and reusable components
