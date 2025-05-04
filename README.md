@@ -1,4 +1,4 @@
-## Will be used for teaching and Testing
+# General Repo
 
 ## Development Guidelines
 
