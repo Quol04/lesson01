@@ -31,6 +31,6 @@
 ---
 ## Testing
 
-Unit tests: [Jest / Vitest]
+- Unit tests: [Jest / Vitest]
 
-Component tests: [React Testing Library / Cypress]
+- Component tests: [React Testing Library / Cypress]
