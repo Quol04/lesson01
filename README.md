@@ -4,15 +4,15 @@
 
 ### This is being used for teaching and Testing
 
-1. Use consistent naming conventions (camelCase for JS, kebab-case for CSS)
+- Use consistent naming conventions (camelCase for JS, kebab-case for CSS)
 
-2. Maintain modular and reusable components
+- Maintain modular and reusable components
 
-3. Prefer functional components and hooks (if using React)
+- Prefer functional components and hooks (if using React)
 
-4. Write a responsive, accessible UI
+- Write a responsive, accessible UI
 
-5. Separate concerns: logic in hooks/services, UI in components
+- Separate concerns: logic in hooks/services, UI in components
 
 ---
 
